@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ananda Samudra</h1>
-<h3 align="center">Beginners of the art of coding</h3>
+<h3 align="center">Beginners of the artcod</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1233499/screenshots/3852878/mobile-development2-2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anandasamudra&label=Profile%20views&color=0e75b6&style=flat" alt="anandasamudra" /> </p>
